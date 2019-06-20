@@ -1,0 +1,6 @@
+[submodule "flight-booking"]
+	path = flight-booking
+	url = https://github.com/kokej/flight-booking
+[submodule "train-booking"]
+	path = train-booking
+	url = https://github.com/kokej/train-booking
